@@ -16,7 +16,7 @@
         android:layout_marginEnd="50dp"
         android:gravity="center"
 
-        android:text="Welcome Back!"
+        android:text="Are in for a ride?"
         android:textColor="@color/white"
         android:textSize="35dp"
         android:textStyle="bold" />
@@ -30,57 +30,60 @@
         android:layout_below="@+id/welcome"
         android:gravity="center"
 
-        android:text="We hope you have a good day in our app."
+        android:text="Fill this form first and we'll go to where you want to!"
         android:textColor="@color/white"
         android:textSize="20dp"
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/username"
-        android:layout_below="@id/signIn"
+        android:id="@+id/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@id/signIn"
 
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="10dp"
 
         android:background="#30ffffff"
+        android:hint="Email"
+        android:inputType="text"
         android:padding="20dp"
-
-        android:hint="User Name"
         android:textColor="@color/white"
         android:textColorHint="@color/white" />
+
     <EditText
         android:id="@+id/password"
-        android:layout_below="@id/username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@id/email"
 
         android:layout_marginStart="20dp"
-        android:layout_marginEnd="20dp"
         android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
         android:layout_marginBottom="10dp"
 
         android:background="#30ffffff"
-        android:padding="20dp"
-
         android:hint="Password"
-        android:textColorHint="@color/white"
-        android:textColor="@color/white" />
+        android:inputType="text"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/loginBtn"
-        android:layout_below="@id/password"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/password"
 
         android:layout_centerHorizontal="true"
-        android:layout_margin="10dp"
 
+        android:layout_marginStart="10dp"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
         android:background="#3F51B5"
-
-        android:text="Login"
-        />
+        android:text="Login" />
 
 </RelativeLayout>
