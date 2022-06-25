@@ -1,16 +1,16 @@
 <h1 align="center">📱 LoginVerify</h1>
 📱 A unpretentious login page in Java with some rudimentary verification.
 
-<h2>Purpose</h2>
+<h1>Purpose</h1>
 A lesson and experiment to see how it is to develop basic android applications in Java. (Didn't like it at all)
 
-<h3>Technologies</h3>
+<h2>Technologies</h2>
   <div style="display: inline">
-   <a target="_blank" href="https://www.java.com/pt-BR/"><img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-   <a target="_blank" href="developer.android"><img align="center" alt="Android Studio" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></a>
+   <a target="_blank" href="https://www.java.com/pt-BR/"><img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+   <a target="_blank" href="developer.android"><img align="center" alt="Android Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></a>
   </div>
 
-<h4>How To Run & Requirements</h4>
+<h3>How To Run & Requirements</h3>
   <ol>
     <li>First install Android Studio.
       <ul>
