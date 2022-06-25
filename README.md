@@ -1,4 +1,4 @@
-<h1 align="center">📱 LoginVerify</h1>
+<h1 id="LoginVerify" align="center">📱 LoginVerify</h1>
 📱 A unpretentious login page in Java with some rudimentary verification.
 
 <h1>Purpose</h1>
@@ -27,3 +27,5 @@ A lesson and experiment to see how it is to develop basic android applications i
   <ul>
     <li>Helped a lot with the back-end. Thanks! <a target="_blank" href="https://github.com/VitorGouveia">Vitor Gouveia</a>.</li>
   </ul>
+
+[⬆ Back To Top](#LoginVerify)<br>
