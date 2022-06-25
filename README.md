@@ -23,9 +23,30 @@ A lesson and experiment to see how it is to develop basic android applications i
     <li>Make sure you select the category as <i>"Phone"</i> and select <i>"Pixel XL"</i> for example.</li>
     <li>Click <i>"Next"</i> and follow the required procedure, after that click the green play button and run <i>"LoginVerify!"</i>.</li>
   </ol>
-<h4>Credits</h4>
+
+<h4>Colaborators</h4>
   <ul>
     <li>Helped a lot with the back-end. Thanks! <a target="_blank" href="https://github.com/VitorGouveia">Vitor Gouveia</a>.</li>
   </ul>
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AtomicFeasT">
+        <img src="https://avatars3.githubusercontent.com/AtomicFeasT" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>AtomicFeasT</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VitorGouveia">
+        <img src="https://avatars3.githubusercontent.com/VitorGouveia" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>Vitor Gouveia</b>
+        </sub>
+      </a>
+    </td>
+ </tr>
+</table>
 
 [⬆ Back To Top](#LoginVerify)<br>
