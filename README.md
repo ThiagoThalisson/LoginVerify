@@ -31,8 +31,8 @@ A lesson and experiment to see how it is to develop basic android applications i
   <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/AtomicFeasT">
-        <img src="https://avatars3.githubusercontent.com/AtomicFeasT" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://github.com/ThiagoThalisson">
+        <img src="https://avatars3.githubusercontent.com/ThiagoThalisson" width="100px;" alt="Foto do Thiago Thalisson no GitHub"/><br>
         <sub>
           <b>AtomicFeasT</b>
         </sub>
@@ -40,7 +40,7 @@ A lesson and experiment to see how it is to develop basic android applications i
     </td>
     <td align="center">
       <a href="https://github.com/VitorGouveia">
-        <img src="https://avatars3.githubusercontent.com/VitorGouveia" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://avatars3.githubusercontent.com/VitorGouveia" width="100px;" alt="Foto do Vitor Gouveia"/><br>
         <sub>
           <b>Vitor Gouveia</b>
         </sub>
